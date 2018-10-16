@@ -1,0 +1,3 @@
+{:title "Can I run my own custom firmware on UKeep?", :idx 2}
+It is currently not allowed to run personal custom firmware.
+As a safety precaution, uploading to our undistributed UKeep firmware will display a warning message during the boot sequence to indicate that it is running unofficial firmware.

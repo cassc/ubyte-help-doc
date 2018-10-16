@@ -1,0 +1,4 @@
+{:title "If someone finds my Ukeep recovery words, can they steal my bitcoin?", :idx 9}
+Anyone with access to your recovery words can regenerate your private key to access your bitcoin. This means that you should protect your recovery words and store it in a safe place.
+
+If you set a seed password, a hacker has to have both your recovery words and your seed password to be able to access your bitcoin. 

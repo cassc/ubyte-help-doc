@@ -1,0 +1,51 @@
+{:title "Setting up a Ukeep wallet", :idx 2}
+
+<h3>Connecting your device to your computer or mobile phone</h3>
+
+To set up your Ukeep wallet, you need to first connect your Ukeep wallet to your computer with a USB Type-C cable (if connecting an Android phone/tablet, you will also need an OTG cable). Once connected, open the link <a href="https://en.ukeepwallet.com/wallet.html">https://en.ukeepwallet.com/wallet.html</a> from Google Chrome. The address will also be displayed on you Ukeep wallet.
+
+Click to connect the device, and select the Ukeep Wallet device that appears in the pop-up window to connect.
+ 
+
+<h3>Installing the latest device firmware</h3>
+
+All factory-installed Ukeep devices do not come with pre-installed firmware to ensure that the user installs the latest firmware when making device settings. This step can also check the legality of the firmware. To install the firmware, just follow the website prompts and click Install Firmware.
+
+<strong>Important note: If you find the purchased Ukeep device is already pre-installed with firmware, please DO NOT use it and contact us immediately.</strong>
+
+<h3>Initializing the device and generating a wallet</h3>
+
+
+After installed the latest firmware, the website will prompt you to initialize the device, and the most important thing is to create a new wallet. Please follow the initialization steps, during which your device will generate a new unique seed that will hold all your accounts and addresses.
+
+<h4>Set the PIN code</h4>
+
+PIN code prevents unauthorized access to the Ukeep device. PIN code supports to be set as 6-16 digits numbers. Please compare the screen digital layout on Ukeep device with corresponding website layout to set and confirm the PIN. The recommended length is at least 6 digits.
+
+<h4>Set the transaction password</h4>
+
+The transaction password is composed of simple letters. The supported length is 6-18. If the transaction password is set, each transaction requires not only the PIN code but also the transaction password to complete the transfer. This protect the security of the account better.
+
+Tip: If you do not set a transaction password, then only need to enter the PIN code to verify when transferring. We strongly suggest users to set a transaction password.
+ 
+
+<h4>Set the seed password </h4>
+
+Seed password is the password used to protect the recovery seed. If the seed password is set, even if the recovery seed is obtained by someone else, they cannot steal your digital asset. 
+
+
+<h4>Back up the recovery seed</h4>
+
+
+Follow the prompts to accurately record the recovery seeds that displayed on the Ukeep device screen with the pen on the recovery seed record card. And then enter the confirmation as prompted. To make sure you have recorded these words accurately.
+
+Tip: when restoring the asset, if the seed password is set, you will need the seed password together with the recovery seed to complete the operation; If the seed password is not set, then you only need the seed to perform the recovery.
+
+<h4>Set device name</h4>
+Support for personalized name settings for devices helps to differentiate devices.
+
+Congratulations, your device is set up, you have it fully installed and can use it safely. Ukeep will always protect your assets.
+
+Please subscribe to our email newsletter and follow us on SNS to learn about our ukeep developments, new features and activities, etc.
+
+For more details on the settings, please refer to the user manual.

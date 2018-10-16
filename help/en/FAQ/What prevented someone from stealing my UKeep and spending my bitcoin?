@@ -1,0 +1,2 @@
+{:title "What prevented someone from stealing my UKeep and spending my bitcoin?", :idx 11}
+Your UKeep is protected by a PIN. It may fall into the hands of a thief, but if it doesn't know the PIN, the device is useless. UKeep will also limit PIN entry attempts, increasing the delay between each failed PIN entry attempt.

@@ -1,0 +1,2 @@
+{:title "What operating system does UKeep use?", :idx 3}
+Ukeep doesn't have an operating system like your computer or mobile phone. It runs an open source embedded operating system (FreeRTOS), which has been confirmed and refined by developers around the world for many years without any backdoors.

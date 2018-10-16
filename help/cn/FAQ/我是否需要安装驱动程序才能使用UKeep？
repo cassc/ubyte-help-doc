@@ -1,0 +1,2 @@
+{:title "我是否需要安装驱动程序才能使用UKeep？", :idx 4}
+UKeep是USB HID级设备（如键盘，鼠标和游戏控制器）。在Windows，Mac或Linux上使用时不需要驱动程序。且不需要安装插件。

@@ -1,0 +1,28 @@
+{:title "Improving safe operation", :idx 4}
+
+<h3>Select a unique and powerful PIN code</h3>
+
+PIN code is a very important guarantee for the device, it prevents the device from being illegally accessed by others. You need to choose a set of numbers that are easy to remember but not so easy to guess as a PIN.
+
+We recommend not using a very simple digital sequence as a PIN (eg. 1234, or 1111, etc.)
+
+ 
+
+<h3>Set up a unique and powerful transaction password</h3>
+
+Although it seems cumbersome, adding an additional transaction password to the transaction will greatly improve The Security of the asset. In the case of a transaction password is set, even if others have acquired your Ukeep device and known your PIN, they will not be able to transfer the funds away. Similarly, we recommend not using very simple letters as transaction passwords (such as aaaa, abcd, etc.)
+
+
+<h3>Set a password for the recovery seed</h3>
+Recovery seed is the key to private key recovery. If the recovery seed is obtained by someone else, then he may recover your assets and transfer them away on other devices. To set a password for the recovery seed, then he will need your recovery seed and seed password at the same time to recover and transfer. Therefore, we strongly recommend setting a password for the recovery seed, and the same should not be too simple.
+
+<h3>Store the Recovery Words</h3>
+
+During the wallet creation process for your Ukeep wallet, you will get a list of recovery words. Recovery words is critical to your wallet security. You can recover your assets using the recovery words and the seed password.
+
+<h3>We recommend:</h3>
+<ul>
+<li>Write recovery words on paper or other similar surface, and use long-lasting marker</li>
+<li>Save at a safe place</li>
+<li>Do not make a digital backup, especially not back up to any website or network connected devices.</li>
+</ul>

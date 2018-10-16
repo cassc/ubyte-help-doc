@@ -1,0 +1,2 @@
+{:title "How many private keys and wallets can I store in UKeep?", :idx 7}
+UKeep supports BIP32 wallet, commonly known as HD wallet. This allows UKeep to generate and store an almost unlimited number of private keys. UKeep also supports BIP44, which allows for the organization of accounts. UKeep can support an almost unlimited number of wallets with an unlimited number of private keys.

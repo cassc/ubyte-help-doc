@@ -1,0 +1,2 @@
+{:title "Does Ukeep come with a predetermined private key?", :idx 10}
+UKeep does not come with any private keys. Before using UKeep, it must be initialized. During initialization, the entropy provided by the hardware wallet device will be used to generate the private key. This method ensures that UKeep generates a unique and unpredictable random private key.

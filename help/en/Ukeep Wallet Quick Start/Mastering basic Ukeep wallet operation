@@ -1,0 +1,21 @@
+{:title "Mastering basic Ukeep wallet operation", :idx 3}
+
+<strong>Cryptocurrency select</strong>
+
+Ukeep wallet supports a variety of cryptocurrencies and Tokens. You can select or switch from the menu bar in the upper left corner.
+
+<img src="/img/coin-s.png"> 
+
+<strong>Receive a payment </strong>
+
+You need to provide the address of the currency to the sender in order to receive the payment from him. You need to switch to corresponding currency, then select the account that you want to receive from, click the Receive button, and you can see a lot of hidden addresses. Click the Show Address, the website will display the full address, and the full address. At the same time, the full address and the QR code of the address will be displayed on the screen of the Ukeep device. Please check carefully whether the website display is consistent with that showed on device. If they are consistent, copy the address and provide it to your transfer party to receive the transfer from him.
+
+<strong>Transfer payment</strong>
+
+To make a payment, switch to relevant currency, select an account, click the Send button from the Overview tab.. Now paste the payee's address and enter the amount. Ukeep supports user-defined handling fees, and you can change the transaction priority by adjusting the transaction fee.
+
+After completing above information, click the Send button, enter the PIN code and the transaction password (in the case of the transaction password be set), the transfer information check will appear on the Ukeep screen, please check the payee's address and amount information carefully. If it is correct, please press the button on the Ukeep device to complete the transfer.
+
+If all above operation is done, Ukeep will sign the transaction and send it to the website, where the transaction will be broadcasted to the blockchain network to complete the transfer.
+
+<strong>Warning: Do not send or receive between different currencies, such as sending BCH to BTC.</strong>

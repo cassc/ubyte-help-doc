@@ -1,0 +1,2 @@
+{:title "How to backup UKeep to avoid loss or theft?", :idx 5}
+When your UKeep initializes to create a wallet, you have the chance to write down the seed word. This seed word is a backup of your UKeep wallet. If your UKeep is lost or stolen, you can use this seed word to recover your wallet accounts. UKeep supports a standardized account hierarchy in BIP 44, so any software wallet that supports BIP 44 can recover your funds. You can also use the seed word to revert to a new or empty UKeep.

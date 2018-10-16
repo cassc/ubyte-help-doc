@@ -1,0 +1,2 @@
+{:title "Do I need to install a driver to use UKeep?", :idx 4}
+UKeep is a USB HID-class device (such as a keyboard, mouse, and game controller). No drivers are required for use on Windows, Mac or Linux. You don't even need to install plugins.

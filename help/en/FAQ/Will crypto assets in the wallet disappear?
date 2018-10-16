@@ -1,0 +1,3 @@
+{:title "Will crypto assets in the wallet disappear?", :idx 1}
+First, each user's blockchain digital asset (such as bitcoin) is essentially a block corresponding to a blockchain network (such as a bitcoin network). The hardware wallet stores the private key corresponding to a certain bitcoin address. You can only sign a transfer transaction initiated from your Bitcoin address using your own device plus your own PIN and transaction password. And you need to confirm the signature through the physical key on the device. So your assets will not be stolen by others.
+Hardware wallet makers also cannot access your encrypted assets.

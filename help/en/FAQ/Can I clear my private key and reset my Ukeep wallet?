@@ -1,0 +1,2 @@
+{:title "Can I clear my private key and reset my Ukeep wallet?", :idx 0}
+UKeep has a reset feature that removes all private keys and settings from the device. We recommend that you do this before re-selling or providing UKeep to anyone. If there is any funding for the UKeep you plan to wipe, make sure you still have the seed word and password on hand to restore the asset at any time because the device wipe is irreversible.
