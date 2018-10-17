@@ -1,7 +1,15 @@
 {:title "Getting to know your Ukeep", :idx 0}
 
 <img src="/img/help-img.jpg">
-Ukeep equipment is a dedicated security hardware device. Similar to the U shield in the banking system as a security escort for traditional assets. Ukeep aims to secure and manage blockchain assets. Ukeep protects your cryptocurrencies, tokens, and encrypted collections (such as encrypted cats), signing transactions, and transferring assets. Ukeep is powered via a USB connection and does not require a battery. All private data is encrypted and stored in a secure area and will not be deleted even if it is not used for a long time.
-<br>
-Ukeep uses standard HD account design of the blockchain industry to perform assets import and export operations with other devices or software wallets that meet the same standards, enabling rapid asset recovery even when devices are lost.<br>
-Ukeep supports all major platforms (Windows, Linux, Mac OS, Android, etc.), it do not need you to install any plugins, software or app. Merely combined with a Chrome web interface, you can easily control your encrypted assets, manage your account, transfer money to other services or friends, etc.
+
+Ukeep wallet is a dedicated hardware device designed for cryptocurrency management. Similar to  physical secure keys popular in the banking system which protect your fiat assets. Ukeep wallet aims to secure and manage your blockchain assets. 
+
+Ukeep wallet can manage and protect your cryptocurrencies and tokens, make transactions by sending or receving crypto assets. 
+
+Ukeep wallet is powered by USB, it does not require any battery to store data permanently. All your private data is encrypted and stored in a secured area and will remain persistent even if it was used for a long time.
+
+
+Ukeep wallet uses standard HD crypto account implementation, allowing you to manage multiple crytocurrencies with one device and to restore wallet from other HD standard-compliant software or hardware wallets, enabling easy recovery even when your device is accidentally lost.
+
+
+Ukeep wallet supports all major platforms (Windows, Linux, Mac OS, and Android.) on PC, laptop, tablet or mobile phones. All you need is the latest version of Google Chrome to start using Ukeep wallet, you do not need you to install any other application or plugin. Open our web page with Google Chrome, connect your Ukeep wallet, and you are ready to manage your crypto assets, make transactions with online exchange providers or your friends.

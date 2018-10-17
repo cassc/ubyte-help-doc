@@ -1,51 +1,97 @@
 {:title "Setting up a Ukeep wallet", :idx 2}
 
-<h3>Connecting your device to your computer or mobile phone</h3>
+<h3>1. Connect your device</h3>
 
-To set up your Ukeep wallet, you need to first connect your Ukeep wallet to your computer with a USB Type-C cable (if connecting an Android phone/tablet, you will also need an OTG cable). Once connected, open the link <a href="https://en.ukeepwallet.com/wallet.html">https://en.ukeepwallet.com/wallet.html</a> from Google Chrome. The address will also be displayed on you Ukeep wallet.
+To set up your Ukeep wallet, you need to first connect your Ukeep wallet to your computer with a USB Type-C cable, to connect Android phone or tablet, you will also need an OTG cable (not included in package). Once connected, open the url <a href="https://en.ukeepwallet.com/wallet.html">https://en.ukeepwallet.com/wallet.html</a> in Google Chrome. The address will also be displayed on you Ukeep wallet.
 
-Click to connect the device, and select the Ukeep Wallet device that appears in the pop-up window to connect.
+ ![Wallet](/img/wallet-en.png)
+
+
+Click the *Connect* button, and a popup window will appear, select `Ukeep Wallet` from the popup window and click the *Connect* button to confirm.
  
 
-<h3>Installing the latest device firmware</h3>
+<h3>2. Installing the latest firmware</h3>
 
-All factory-installed Ukeep devices do not come with pre-installed firmware to ensure that the user installs the latest firmware when making device settings. This step can also check the legality of the firmware. To install the firmware, just follow the website prompts and click Install Firmware.
-
-<strong>Important note: If you find the purchased Ukeep device is already pre-installed with firmware, please DO NOT use it and contact us immediately.</strong>
-
-<h3>Initializing the device and generating a wallet</h3>
+  ![Update firmware](/img/quick-start-update-en.png)
 
 
-After installed the latest firmware, the website will prompt you to initialize the device, and the most important thing is to create a new wallet. Please follow the initialization steps, during which your device will generate a new unique seed that will hold all your accounts and addresses.
+The Ukeep wallet shipped to you does not come with any pre-installed firmware. This is to ensure the user can have the latest firmware and to avoid firmware tampering by dealers or resellers. 
 
-<h4>Set the PIN code</h4>
+Please click the *Update* button to start updating the firmware.
 
-PIN code prevents unauthorized access to the Ukeep device. PIN code supports to be set as 6-16 digits numbers. Please compare the screen digital layout on Ukeep device with corresponding website layout to set and confirm the PIN. The recommended length is at least 6 digits.
+**Important note:**
+* If you find your Ukeep walet is pre-installed with a firmware, please DO NOT use it and contact us immediately.
+* Ukeep wallet may auto-disconnect and reconnect during firmware update. Please do not unplug your device before update success. 
 
-<h4>Set the transaction password</h4>
+<h3>3. Initializing the device and creating a wallet</h3>
 
-The transaction password is composed of simple letters. The supported length is 6-18. If the transaction password is set, each transaction requires not only the PIN code but also the transaction password to complete the transfer. This protect the security of the account better.
+> After installing the latest firmware,  you will initialize your Ukeep wallet by creating a new wallet. Please follow the instructions for each step carefully. Your Ukeep wallet will generate unique and random seed which can derive all your accounts and addresses.
 
-Tip: If you do not set a transaction password, then only need to enter the PIN code to verify when transferring. We strongly suggest users to set a transaction password.
+![Create wallet](/img/qs-wallet-create-en.png)
+
+**Hint:** If you need to restore a wallet, you should click the *Restore* button and follow the online instructions to start.
+
+**Important note:**
+* Please make sure to back up your recovery words.
+* If you choose to use seed password, please make sure you also backed up it.  
+* If you initialization is interrupted (either by page refresh or device disconnect), you can disconnect and re-connect your Ukeep wallet to start over.
+
+#### 3.1 Select the number of recovery words
+
+A larger number of recovery words provides better protection against hack by brute force. You can select between 12, 18 or 24 words. 
  
 
-<h4>Set the seed password </h4>
+<h4>3.2 Set PIN</h4>
 
-Seed password is the password used to protect the recovery seed. If the seed password is set, even if the recovery seed is obtained by someone else, they cannot steal your digital asset. 
-
-
-<h4>Back up the recovery seed</h4>
+![Create wallet PIN](/img/qs-wallet-create-pin-en.png)
 
 
-Follow the prompts to accurately record the recovery seeds that displayed on the Ukeep device screen with the pen on the recovery seed record card. And then enter the confirmation as prompted. To make sure you have recorded these words accurately.
+PIN prevents unauthorized access to your Ukeep wallet. PIN is a number with 6 to 16 digits. Please refer the keypad layout displayed on your Ukeep wallet and enter your PIN from browser. 
 
-Tip: when restoring the asset, if the seed password is set, you will need the seed password together with the recovery seed to complete the operation; If the seed password is not set, then you only need the seed to perform the recovery.
+We recommend set a PIN with at least 6 digits and reasonably good randomness.
 
-<h4>Set device name</h4>
-Support for personalized name settings for devices helps to differentiate devices.
+<h4>3.3 Set transaction password</h4>
 
-Congratulations, your device is set up, you have it fully installed and can use it safely. Ukeep will always protect your assets.
+![Payment password](/img/qs-wallet-create-paypwd-en.png)
 
-Please subscribe to our email newsletter and follow us on SNS to learn about our ukeep developments, new features and activities, etc.
 
-For more details on the settings, please refer to the user manual.
+A transaction password consists of 6 to 18 letters. If you enable the transaction password, you will be required to enter the correct transaction password before sending any coins. 
+
+
+**Note:**
+* If you do not enable transaction password, you still need to enter your PIN before making transactions. 
+* Transaction password provides additional security for your asset, we recommend you to enable the transaction password.
+ 
+
+<h4>3.4 Set the seed password </h4>
+
+![Seed password](/img/qs-wallet-create-seedpwd-en.png)
+
+
+Seed password is an additional word for your recovery words. By using a seed password, even if your  recovery words is stolen by a hacker, he/she still need your seed password to access your wallet. 
+
+**Important note: If you choose to use a seed password, you must tread the seed password equally important as your recovery words. Without the seed password you can not restore your wallet with only your recovery words.**
+
+> Note: When restoring your wallet, if your original wallet had a seed password, you need to enter the correct seed password to restore your wallet. If you entered an incorrect seed password, you could still restore a wallet, which is totally different from your original wallet, and very likely the wallet will be empty.
+
+
+<h4>3.5 Back recovery words</h4>
+
+![Recovery words](/img/qs-wallet-create-seed-en.png)
+
+Ukeep wallet will generate and display a list of randomly picked words. The length of the list is configured at the beginning (see **3.1 Select the number of recovery words**).  Please follow the online instruction to write down each word. 
+
+After displaying the complete recovery word list, Ukeep wallet will prompt whether to display the list again.   Click the *No* button on your device if don't need to view the recovery words again. You will be required to confirm each word in your recovery word list:
+
+![Recovery words select](/img/qs-wallet-create-seed-select-en.png)
+
+After confirming you've actually backed up the complete recovery word list, Ukeep will generate and persist your private key on your device.  
+
+<h4>3.6 Initialize success</h4>
+
+![Wallet create success](/img/qs-wallet-create-success-en.png)
+
+
+Congratulations! You've successfully initialized your Ukeep wallet. 
+
+Click the *Continue* button to explore your cryptocurrency accounts or receive cryptocurrency payments or make transactions. 
