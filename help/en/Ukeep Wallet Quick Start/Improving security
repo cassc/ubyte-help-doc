@@ -1,14 +1,16 @@
-{:title "Improving safe operation", :idx 4}
+{:title "Improving security", :idx 4}
 
-<h3>Select a unique and powerful PIN code</h3>
+<h3>Use a unique and strong PIN</h3>
 
-PIN code is a very important guarantee for the device, it prevents the device from being illegally accessed by others. You need to choose a set of numbers that are easy to remember but not so easy to guess as a PIN.
+PIN is a very important protection against unauthorized access to your Ukeep wallet. You should make your PIN hard to guess, but easy for you to remember.
 
-We recommend not using a very simple digital sequence as a PIN (eg. 1234, or 1111, etc.)
+* Do not use overly simple codes as your PIN (eg. 1234, or 1111, etc.)
+* Do not use your birthday, ID number as your PIN.
+* Do not use the same passcode/PIN among multiple websites. 
 
  
 
-<h3>Set up a unique and powerful transaction password</h3>
+<h3>Use a strong transaction password</h3>
 
 Although it seems cumbersome, adding an additional transaction password to the transaction will greatly improve The Security of the asset. In the case of a transaction password is set, even if others have acquired your Ukeep device and known your PIN, they will not be able to transfer the funds away. Similarly, we recommend not using very simple letters as transaction passwords (such as aaaa, abcd, etc.)
 
