@@ -1,16 +1,29 @@
 {:title "Understanding Ukeep wallet basic usage", :idx 3}
 
-<strong>Cryptocurrency select</strong>
+### 1. Selecting cryptocurrency
 
-Ukeep wallet supports a variety of cryptocurrencies and Tokens. You can select or switch from the menu bar in the upper left corner.
+Ukeep wallet supports a variety of cryptocurrencies and tokens. Click the crypto coin logo on the top left corner to open the cryptocurrency selection window.
 
 <img src="/img/coin-s-en.png"> 
 
-<strong>Receive a payment </strong>
+### 2. Receiving a payment
 
-You need to provide the address of the currency to the sender in order to receive the payment from him. You need to switch to corresponding currency, then select the account that you want to receive from, click the Receive button, and you can see a lot of hidden addresses. Click the Show Address, the website will display the full address, and the full address. At the same time, the full address and the QR code of the address will be displayed on the screen of the Ukeep device. Please check carefully whether the website display is consistent with that showed on device. If they are consistent, copy the address and provide it to your transfer party to receive the transfer from him.
+You need to provide your address to a sender in order to receive payment. Please follow these steps to receive payment: 
 
-<strong>Transfer payment</strong>
+* Switch to the correct cryptocurrency.
+* Select an account you wish to receive the payment.
+* Click the *Receive* button and you can find your partially hidden address:
+
+<img  style="box-shadow:none;" src="/img/qs-receive-addr-hide.png"> 
+
+* Click *Show Address* and the full address will be display on your browser and on your Ukeep wallet screen.
+
+<img style="box-shadow:none;" src="/img/qs-receive-addr-shown.png"> 
+
+* Please make sure the addresses displayed on your browser and on your device are identical, then you may proceed and copy the address and provide it to your sender.
+
+
+### 3. Making a payment
 
 To make a payment, switch to relevant currency, select an account, click the Send button from the Overview tab.. Now paste the payee's address and enter the amount. Ukeep supports user-defined handling fees, and you can change the transaction priority by adjusting the transaction fee.
 
