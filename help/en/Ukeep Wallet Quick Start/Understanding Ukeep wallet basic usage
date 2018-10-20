@@ -14,21 +14,33 @@ You need to provide your address to a sender in order to receive payment. Please
 * Select an account you wish to receive the payment.
 * Click the *Receive* button and you can find your partially hidden address:
 
-<img  style="box-shadow:none;" src="/img/qs-receive-addr-hide.png"> 
+<img  style="width:60%;margin: 0 auto;display:block;margin-bottom:1rem;" src="/img/qs-receive-addr-hide-en.png"> 
 
 * Click *Show Address* and the full address will be display on your browser and on your Ukeep wallet screen.
 
-<img style="box-shadow:none;" src="/img/qs-receive-addr-shown.png"> 
+<img style="width:60%;margin: 0 auto;display:block;margin-bottom:1rem;"  src="/img/qs-receive-addr-shown-en.png"> 
 
 * Please make sure the addresses displayed on your browser and on your device are identical, then you may proceed and copy the address and provide it to your sender.
 
 
 ### 3. Making a payment
 
-To make a payment, switch to relevant currency, select an account, click the Send button from the Overview tab.. Now paste the payee's address and enter the amount. Ukeep supports user-defined handling fees, and you can change the transaction priority by adjusting the transaction fee.
+In order to make a payment, you need to get the following information from your recipient: 
 
-After completing above information, click the Send button, enter the PIN code and the transaction password (in the case of the transaction password be set), the transfer information check will appear on the Ukeep screen, please check the payee's address and amount information carefully. If it is correct, please press the button on the Ukeep device to complete the transfer.
+* Type of cryptocurrency
+* Exact address
+* Value with proper unit to be sent 
 
-If all above operation is done, Ukeep will sign the transaction and send it to the website, where the transaction will be broadcasted to the blockchain network to complete the transfer.
+Please follow these steps to make a payment:
 
-<strong>Warning: Do not send or receive between different currencies, such as sending BCH to BTC.</strong>
+* Switch to the correct cryptocurrency
+* Select an account and make sure you have enough balance to make the payment
+* Click the *Send* button from the Overview tab. Now paste the address of your recipient, enter the value. Adjust the transaction fee as necessary to balance between time efficiency and cost.
+
+<img style="width:60%;margin: 0 auto;display:block;margin-bottom:1rem;"  src="/img/qs-send-0-en.png"> 
+
+* After entering above information, click the *Send* button, enter your PIN (or your transaction password if you enabled it). Ukeep wallet will display the recipient address and value to be transferred, please make sure the address and value are correct. You should cancel or confirm the payment using the buttons on your Ukeep wallet.
+
+If you have confirmed the payment from your Ukeep wallet, Ukeep will sign the transaction and send it to our Web App running on your browser, which will relay the signed transaction and eventually broadcast to the blockchain network.
+
+**Warning: Never send or receive between different currencies, such as sending BTC to BCH.**
