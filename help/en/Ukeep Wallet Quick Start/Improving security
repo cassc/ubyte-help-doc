@@ -1,6 +1,6 @@
 {:title "Improving security", :idx 4}
 
-<h3>Use a unique and strong PIN</h3>
+<h3>Use a strong PIN</h3>
 
 PIN is a very important protection against unauthorized access to your Ukeep wallet. You should make your PIN hard to guess, but easy for you to remember.
 
@@ -12,19 +12,28 @@ PIN is a very important protection against unauthorized access to your Ukeep wal
 
 <h3>Use a strong transaction password</h3>
 
-Although it seems cumbersome, adding an additional transaction password to the transaction will greatly improve The Security of the asset. In the case of a transaction password is set, even if others have acquired your Ukeep device and known your PIN, they will not be able to transfer the funds away. Similarly, we recommend not using very simple letters as transaction passwords (such as aaaa, abcd, etc.)
+Enabling a transaction password can greatly improve the safety of your crypto accounts. 
 
+With Ukeep wallet transaction password enabled, a hacker, who had acquired your Ukeep wallet and even knew your PIN, still could not transfer asset away from your Ukeep wallet without knowing your transaction password.
 
-<h3>Set a password for the recovery seed</h3>
-Recovery seed is the key to private key recovery. If the recovery seed is obtained by someone else, then he may recover your assets and transfer them away on other devices. To set a password for the recovery seed, then he will need your recovery seed and seed password at the same time to recover and transfer. Therefore, we strongly recommend setting a password for the recovery seed, and the same should not be too simple.
+We strongly encourage your to enable transaction password and make it difficult to guess.
 
-<h3>Store the Recovery Words</h3>
+<h3>Use a seed password</h3>
 
-During the wallet creation process for your Ukeep wallet, you will get a list of recovery words. Recovery words is critical to your wallet security. You can recover your assets using the recovery words and the seed password.
+Recovery words is the key to private key recovery. If your recovery words are acquired by a hacker, he/she could derive your private key and transfer all your assets away. 
 
-<h3>We recommend:</h3>
-<ul>
-<li>Write recovery words on paper or other similar surface, and use long-lasting marker</li>
-<li>Save at a safe place</li>
-<li>Do not make a digital backup, especially not back up to any website or network connected devices.</li>
-</ul>
+If you had enabled the seed password, in order to steal your assets, the hacker would need the seed password in addition to your recovery words. Thus we strongly recommend using a seed password which is difficult to guess and easy for you to remember.
+
+**Warning: The seed password, if enabled, is as equally important as your recovery words. Losing either your seed password or your recovery words meas you will not be able to recover your crypto wallet.**
+
+<h3>Safe keeping your Recovery Words</h3>
+
+During your Ukeep wallet initialization, a list of recovery words will be generated for you. Recovery words are critical to your wallet security. You can recover your wallet using your recovery words (and your seed password if had enabled it) anytime.
+
+**Recommendations:**
+
+* Store your recovery words offline. 
+* Do not make digital copies.
+* Do not store on any websites or network connected devices.
+* Consider permanent storage methods, e.g., writing down on a piece of paper and store the paper somewhere safe.
+* If you have enabled the seed password, please also back up it.
